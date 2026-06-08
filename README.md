@@ -125,7 +125,7 @@ The following table reports the main results on LexRubric. Scores are reported a
 
 ## License
 
-This dataset is released under the **CC BY-NC 4.0** license. It is intended for research and non-commercial use.
+This repository is released under the **MIT** License.
 
 ## Citation
 
