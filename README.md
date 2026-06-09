@@ -4,7 +4,7 @@
   <a href="https://huggingface.co/datasets/chenyifan0929/LexRubric">
     <img src="https://img.shields.io/badge/Data-HuggingFace-yellow?logo=huggingface" alt="Data">
   </a>
-  <a href="https://arxiv.org/">
+  <a href="https://arxiv.org/abs/2606.09389">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv" alt="Paper">
   </a>
 </p>
@@ -132,5 +132,13 @@ This repository is released under the **MIT** License.
 If you use LexRubric in your research, please cite our paper:
 
 ```bibtex
-
+@misc{chen2026lexrubricrubricguideddiagnosticbenchmark,
+      title={LexRubric: A Rubric-Guided Diagnostic Benchmark for Open-Ended Legal Tasks}, 
+      author={Yifan Chen and Haitao Li and Yiran Hu and Kaisong Song and Jun Lin and Yueyue Wu and Qingyao Ai and Min Zhang and Yiqun Liu},
+      year={2026},
+      eprint={2606.09389},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.09389}, 
+}
 ```
