@@ -9,13 +9,13 @@
   </a>
 </p>
 
-## News
-
-- 🎉 **[2026.08] LexRubric is accepted to EMNLP 2026 Main Conference!**
-
 <p align="center">
   <img src="figure/overview.png" width="95%" alt="Overview of LexRubric">
 </p>
+
+## News
+
+- 🎉 **[2026.08] LexRubric is accepted to EMNLP 2026 Main Conference!**
 
 ## Overview
 
