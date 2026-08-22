@@ -102,6 +102,17 @@ Each instance contains a legal question, an expert-written reference answer, and
 
 Positive rubric items describe desirable properties of a high-quality response, while negative rubric items describe incorrect, unsafe, misleading, or otherwise undesirable properties. The absolute point value reflects the relative importance of the criterion.
 
+## Evaluation
+
+We provide the evaluation prompt and a reference evaluation script in the [`code/`](code/) directory:
+
+- [`prompt.txt`](code/prompt.txt): the prompt used for rubric-based evaluation.
+- [`eval.py`](code/eval.py): a reference script for evaluating model responses on LexRubric.
+
+The evaluation script can be configured through the **Config** section at the beginning of `eval.py`. It supports evaluating models either through **API calls** or through a **locally deployed model endpoint**, allowing users to adapt the evaluation pipeline to different model serving setups.
+
+Please refer to the configuration options in `eval.py` for model access, input/output paths, and evaluation settings.
+
 ## Main Results
 
 The following table reports the main results on LexRubric. Scores are reported as score rates (%).
