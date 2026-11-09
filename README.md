@@ -147,13 +147,25 @@ This repository is released under the **MIT** License.
 If you use LexRubric in your research, please cite our paper:
 
 ```bibtex
-@misc{chen2026lexrubricrubricguideddiagnosticbenchmark,
-      title={LexRubric: A Rubric-Guided Diagnostic Benchmark for Open-Ended Legal Tasks}, 
-      author={Yifan Chen and Haitao Li and Yiran Hu and Kaisong Song and Jun Lin and Yueyue Wu and Qingyao Ai and Min Zhang and Yiqun Liu},
-      year={2026},
-      eprint={2606.09389},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2606.09389}, 
+@inproceedings{chen-etal-2026-lexrubric,
+    title = "{L}ex{R}ubric: A Rubric-Guided Diagnostic Benchmark for Open-Ended Legal Tasks",
+    author = "Chen, Yifan  and
+      Li, Haitao  and
+      HU, Yiran  and
+      Song, Kaisong  and
+      Lin, Jun  and
+      Wu, Yueyue  and
+      Ai, Qingyao  and
+      Zhang, Min  and
+      Liu, Yiqun",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.792/",
+    doi = "10.18653/2026.emnlp-main.792",
+    pages = "18406--18422",
+    ISBN = "979-8-89176-459-0"
 }
 ```
